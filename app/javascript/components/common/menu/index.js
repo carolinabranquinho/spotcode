@@ -49,7 +49,7 @@ const Menu = () => {
                     </ColumnsFullWidth>
                 </Container>
             </Navbar>
-            Menu
+            
         </Fragment>
     );
 
